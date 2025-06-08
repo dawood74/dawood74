@@ -1,23 +1,26 @@
 # Hi there, I'm Omar Dawood! 👋
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/omar-dawood-148228190/" target="_blank">
+  <a href="https://www.linkedin.com/in/omar-dawood-148228190/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:omaratefdawood@gmail.com" target="_blank">
+  <a href="mailto:omaratefdawood@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </p>
 
-### About Me
+---
 
-I'm a Full Stack Developer based in Cairo, Egypt, with a passion for building great things for the web. My focus is on creating scalable back-end solutions with **.NET** and crafting modern, user-friendly interfaces with **Angular** and **Bootstrap**.
+### 📌 About Me
 
-I enjoy turning complex challenges into simple, elegant code and I'm always eager to learn and grow in the tech world.
+I'm a Full Stack Developer based in **Cairo, Egypt**, with a passion for building great things for the web.  
+My focus is on creating scalable back-end solutions with **.NET**, and crafting modern, user-friendly interfaces using **Angular** and **Bootstrap**.
+
+I enjoy turning complex challenges into simple, elegant code — and I'm always eager to learn and grow in the tech world.
 
 ---
 
-### My Tech Stack
+### 🛠️ My Tech Stack
 
 Here are some of the tools and technologies I enjoy working with:
 
@@ -36,4 +39,11 @@ Here are some of the tools and technologies I enjoy working with:
 
 ---
 
-Feel free to reach out if you want to collaborate on a project or just want to connect!
+### 📫 Get in Touch
+
+- 📧 Email: [omaratefdawood@gmail.com](mailto:omaratefdawood@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/omar-dawood-148228190](https://www.linkedin.com/in/omar-dawood-148228190/)
+
+---
+
+> ⚡ *Feel free to reach out if you want to collaborate on a project or just connect — I'm always up for new opportunities and conversations!*
