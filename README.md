@@ -1,49 +1,100 @@
-# Hi there, I'm Omar Dawood! 👋
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/omar-dawood-148228190/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:omaratefdawood@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-</p>
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=dawood74&label=PROFILE+VIEWS&style=flat-square&color=6a0dad" alt="Profile Views"/>
+  <h1>
+    Hi there, I'm Omar Dawood
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  <h3>Full Stack Developer | .NET & Angular Specialist</h3>
+  <p>
+    <a href="https://www.linkedin.com/in/omar-dawood-148228190/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:omaratefdawood@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+  </p>
+</div>
 
 ---
 
-### 📌 About Me
+### 👨‍💻 About Me
 
-I'm a Full Stack Developer based in **Cairo, Egypt**, with a passion for building great things for the web.  
-My focus is on creating scalable back-end solutions with **.NET**, and crafting modern, user-friendly interfaces using **Angular** and **Bootstrap**.
+I am a passionate Full Stack Developer from **Cairo, Egypt** 🇪🇬, with a strong focus on building robust and scalable web applications.
 
-I enjoy turning complex challenges into simple, elegant code — and I'm always eager to learn and grow in the tech world.
+-   Backend: I specialize in architecting secure, high-performance back-end services using **.NET** and **C#**.
+-   Frontend: I enjoy crafting dynamic, user-friendly interfaces with **Angular** and **Bootstrap**.
+-   Goal: I love turning complex problems into simple, elegant code and I am always eager to embrace new challenges and contribute to impactful projects.
 
 ---
 
 ### 🛠️ My Tech Stack
 
-Here are some of the tools and technologies I enjoy working with:
+<table>
+  <tr>
+    <td align="center"><strong>Backend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Frontend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Database</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MS SQL Server"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Tools & Version Control</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Badge"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Badge"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MS SQL Server Badge"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-</p>
+---
+
+### 🚀 What I'm Currently Focusing On
+
+-   Deepening my expertise in cloud-native applications with **Microsoft Azure**.
+-   Exploring **.NET MAUI** for cross-platform desktop and mobile development.
+-   Improving application performance with advanced **caching strategies** and **database optimization**.
+
+---
+
+### 🏆 GitHub Trophies & Stats
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dawood74&theme=onedark&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <br>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=dawood74&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="Omar's GitHub Stats"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawood74&layout=compact&theme=vision-friendly-dark" alt="Omar's Top Languages"/>
+</div>
 
 ---
 
 ### 📫 Get in Touch
 
-- 📧 Email: [omaratefdawood@gmail.com](mailto:omaratefdawood@gmail.com)
-- 💼 LinkedIn: <a href="https://www.linkedin.com/in/omar-dawood-148228190/" target="_blank" rel="noopener noreferrer">linkedin.com/in/omar-dawood-148228190</a>
+I'm always open to connecting with other developers, discussing new ideas, or collaborating on projects. Feel free to reach out!
 
----
-
-> ⚡ *Feel free to reach out if you want to collaborate on a project or just connect — I'm always up for new opportunities and conversations!*
+<p align="center">
+  <a href="https://www.linkedin.com/in/omar-dawood-148228190/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Connect"/>
+  </a>
+  <a href="mailto:omaratefdawood@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-red?style=for-the-badge&logo=gmail" alt="Email Me"/>
+  </a>
+</p>
